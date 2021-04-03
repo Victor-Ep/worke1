@@ -10,7 +10,7 @@
 
 JavaScript:
 
- <script src="https://localhost/neuro.sdk.min.js"></script>
+ * https://localhost/neuro.sdk.min.js
 
 
 Java (Maven):
